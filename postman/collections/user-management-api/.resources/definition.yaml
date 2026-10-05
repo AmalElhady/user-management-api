@@ -1,0 +1,5 @@
+$kind: collection
+name: User Management API
+variables:
+  - key: baseUrl
+    value: 'http://localhost:5000'
